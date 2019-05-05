@@ -10,3 +10,4 @@ User personalization and authorization is one of the hottest areas of research a
 
 Resourced / Related Research:
 http://www.csis.pace.edu/~ctappert/papers/proceedings/2016BTAS/Papers/AnEmpericalEvaluationOfActivities.pdf
+https://github.com/theumairahmed/User-Identification-and-Classification-From-Walking-Activity/blob/master/Report_UmairAhmed.pdf
